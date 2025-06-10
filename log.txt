@@ -1,0 +1,2 @@
+(HEAD -> main) Добавил status.txt
+(origin/main, origin/HEAD) Create README.md
